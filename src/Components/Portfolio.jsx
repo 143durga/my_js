@@ -31,28 +31,22 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Rice Leaf Disease Classification 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Utilizing machine learning and deep learning techniques, this web application accurately identifies and categorizes diseases affecting rice plants based on leaf images. It empowers farmers with early detection capabilities, aiding in timely interventions for crop protection and food security.",
+    url: "https://github.com/143durga/Rice-Leaf-Disease-Classification",
   },
   {
     title: "Web Development for Beginners",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A tribute page honoring a notable figure, designed with HTMLto showcase their achievements and legacy..",
+    url: "https://github.com/143durga/tribute",
   },
   {
-    title: "My Resume Site",
+    title: "My Page ",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
-  },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Created from Canva's Portfolio. Includes my experience and design abilities.",
+    url: "https://www.canva.com/design/DAGIkYSWgUI/bP_e3InEeTz3xW-tX6sPmA/view?utm_content=DAGIkYSWgUI&utm_campaign=designshare&utm_medium=link&utm_source=editor.",
   },
 ];
 
