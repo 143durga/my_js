@@ -30,7 +30,9 @@ const siteProps = {
   gitHub: "143durga",
   instagram: "durga_.19",
   linkedIn: "Durga Bhavani",
-  medium: "",
+  medium: "Durga",
+  twitter: "Durg@",
+  youTube: "Durga Bhavani",
 };
 
 const primaryColor = "#4E567E";
